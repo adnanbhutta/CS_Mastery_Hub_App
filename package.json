@@ -1,6 +1,9 @@
 {
   "name": "cs-mastery-hub-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "engines": {
+    "node": "16.x"
+  },
   "homepage": "https://adnanbhutta.github.io/CS_Mastery_Hub_App/",
   "private": true,
   "dependencies": {
