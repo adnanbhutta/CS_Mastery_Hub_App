@@ -1,19 +1,16 @@
 {
   "name": "cs-mastery-hub-app",
-  "version": "1.0.1",
-  "engines": {
-    "node": "16.x"
-  },
+  "version": "1.1.0",
   "homepage": "https://adnanbhutta.github.io/CS_Mastery_Hub_App/",
   "private": true,
   "dependencies": {
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
